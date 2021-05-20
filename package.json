@@ -4,7 +4,7 @@
   "description": "developper kit for animeback extensions",
   "main": "index.js",
   "scripts": {
-    "updater": "script/update.js",
+    "updater": "node script/update.js",
     "release": "script/release.sh"
   },
   "repository": {
