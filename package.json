@@ -1,6 +1,6 @@
 {
   "name": "animeback-kit",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "developper kit for animeback extensions",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TaiStudio/animebackKit.git"
-  },"publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "tai",
