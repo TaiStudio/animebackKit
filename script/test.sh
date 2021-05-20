@@ -25,6 +25,7 @@ npm version minor -m "bump minor to %s"
 git pull --rebase
 git push origin main
 git push origin main --tags
+echo //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN} > .npmrc
 npm publish
 npm pack
 node ./script/publish-to-gh.js
