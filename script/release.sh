@@ -23,8 +23,8 @@ git add .
 git commit -am "new version" --author "AnimeBack-Bot <animebot.tai.studio@outlook.fr>"
 npm version minor -m "bump minor to %s"
 git pull --rebase
-git push origin master
-git push origin master --tags
+git push origin main
+git push origin main --tags
 echo //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN} > .npmrc
 npm publish
 npm pack
