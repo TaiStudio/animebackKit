@@ -9,7 +9,7 @@ git clone "https://AnimeBack-Bot:$GH_TOKEN@github.com/TaiStudio/animebackKit" an
 cd animebackKit
 npm ci
 
-npm run check
+npm run updater
 
 # bail if nothing changed
 if [ "$(git status --porcelain)" = "" ]; then
