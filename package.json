@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "updater": "node script/update.js",
-    "release": "script/release.sh"
+    "release": "script/release.sh",
+    "release2": "script/test.sh"
   },
   "repository": {
     "type": "git",
