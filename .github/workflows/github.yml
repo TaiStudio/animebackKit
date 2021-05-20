@@ -1,6 +1,6 @@
 on: workflow_dispatch
 
-name: Update and release
+name: Update and release 2
 
 jobs:
   updateDataAndRelease:
