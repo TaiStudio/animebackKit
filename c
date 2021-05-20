@@ -1,0 +1,14 @@
+file
+url
+width
+height
+frame
+autoHideMenuBar
+resize
+nodeIntegration
+skipTaskBar
+iconFile
+alwaysOnTop
+BackgroundColor
+transparent
+pos
