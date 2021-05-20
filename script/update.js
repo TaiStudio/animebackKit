@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const content = 'Some content! l'
+const content = 'Some content! 4'
 
 fs.writeFileSync('./test.txt', content, err => {
     if (err) {
