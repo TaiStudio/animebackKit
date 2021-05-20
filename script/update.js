@@ -1,3 +1,11 @@
-const fs = require('fs');
+const fs = require('fs')
 
-fs.writeFileSync('./updater.json', {"version": "n"})
+const content = 'Some content!'
+
+fs.writeFile('/Users/joe/test.txt', content, err => {
+    if (err) {
+        console.error(err)
+        return
+    }
+    //file written successfully
+})
