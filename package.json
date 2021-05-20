@@ -12,9 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/TaiStudio/animebackKit.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "keywords": [
     "tai",
     "studio",
