@@ -1,0 +1,37 @@
+{
+  "name": "animeback-kit",
+  "version": "1.0.0",
+  "description": "developper kit for animeback extensions",
+  "main": "index.js",
+  "scripts": {
+    "release": "script/release.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiStudio/animebackKit.git"
+  },
+  "keywords": [
+    "tai",
+    "studio",
+    "animeback",
+    "extension",
+    "developper",
+    "kit"
+  ],
+  "author": "Tai Studio <tai.studio@outlook.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaiStudio/animebackKit/issues"
+  },
+  "homepage": "https://github.com/TaiStudio/animebackKit#readme",
+  "devDependencies": {
+    "@octokit/rest": "^18.5.3",
+    "dotenv-safe": "^8.2.0",
+    "fs": "*",
+    "npm-run-all": "^4.1.5",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}

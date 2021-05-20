@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.npmrc
+node_modules
+yarn.lock
+.gitsync_lock
