@@ -1,5 +1,5 @@
 {
-  "name": "@TaiStudio/animebackKit",
+  "name": "@taistudio/animebackkit",
   "version": "1.8.0",
   "description": "developper kit for animeback extensions",
   "main": "index.js",
