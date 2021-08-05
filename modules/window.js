@@ -58,4 +58,4 @@ class Window{
     }
 }
 
-export default Window();
+module.exports = Window();
