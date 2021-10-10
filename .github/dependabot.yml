@@ -12,3 +12,7 @@ updates:
       interval: "daily"
     labels:
       - "npm dependencies"
+    assignees:
+      - "LeGitHubDeTai"
+    reviewers:
+      - "LeGitHubDeTai"
