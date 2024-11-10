@@ -1,6 +1,6 @@
 {
   "name": "@taistudio/animebackkit",
-  "version": "1.2556.0",
+  "version": "1.2557.0",
   "description": "developper kit for animeback extensions",
   "main": "index.js",
   "scripts": {
